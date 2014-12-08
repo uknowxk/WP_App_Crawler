@@ -1,0 +1,4 @@
+1.  THis Code is a Windows Phone Apps Crawler which collects apps from Window Phone Marketplace (US).
+2.  It utilizes HttpClient library to retrieve webpages and utilizes HtmlParser to parse useful information.
+3.  There are two seperate crawlers. One is used to collected app information, such as app id, name, description, developer, rating,
+download number. The other is used to collect apps' comments from users.
